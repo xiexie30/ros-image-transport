@@ -1,2 +1,0 @@
-hello_communicate:my_image_transport
--DCATKIN_DEVEL_PREFIX=/home/xjb/test_communicate/devel -DCMAKE_INSTALL_PREFIX=/home/xjb/test_communicate/install -G Unix Makefiles
