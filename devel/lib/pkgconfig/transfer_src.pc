@@ -1,0 +1,8 @@
+prefix=/home/xjb/test_communicate/devel
+
+Name: transfer_src
+Description: Description of transfer_src
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
