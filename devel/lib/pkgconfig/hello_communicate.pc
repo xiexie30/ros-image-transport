@@ -1,8 +1,0 @@
-prefix=/home/xjb/test_communicate/devel
-
-Name: hello_communicate
-Description: Description of hello_communicate
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

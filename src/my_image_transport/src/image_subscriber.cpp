@@ -42,7 +42,6 @@ int main(int argc, char **argv)
   if (argc > 1 && (strcmp(argv[1], "imshow") == 0 || strcmp(argv[1], "show") == 0)) {
     imshow = true;
   }
-  std::cout << imshow << std::endl;
   if (imshow) {
     cv::namedWindow("view");
     cv::startWindowThread();
